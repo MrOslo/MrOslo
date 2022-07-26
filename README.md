@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra mais informações deixo as minhas redes sociais abaixo!
+  ### Para mais informações deixo as minhas redes sociais abaixo!
  
 <div> 
   <a href="https://instagram.com/oslo_paintballer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
