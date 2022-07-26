@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Evanderson FOrtunato 😁
+## Bem-vindo(a) ao perfil de Evanderson Fortunato 😁
 
  <div>
    <a href="https://github.com/MrOslo">
@@ -21,6 +21,6 @@
   <a href = "mailto:evandersonfortunato98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.https://www.linkedin.com/in/evandersson-fortunato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Mroslo/Mroslo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mroslo/mroslo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
